@@ -1,0 +1,62 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.topo{
+    border: 1px solid black;
+    display: flex;         
+    /* align-items:stretch; */
+    justify-content: space-between;
+    padding: 0 8px;
+    background-color: mediumvioletred ;
+}
+.topo-logo{
+    width: 3%; 
+}
+.div-lado-esquerdo{
+    display: flex;
+    align-items: initial;
+    gap: 10px;
+
+    
+}
+
+.topo-texto-confeitaria{
+    display: flex;
+    align-items:initial ;
+}
+
+/* .barra {
+    background-color:bisque;
+    height: 100%;
+    text-decoration: none;
+    position: fixed;
+    margin-top: -18px;
+    color:#fff;
+    width: 275px;
+  }
+
+#cor {
+color:#fff;
+text-decoration: none;
+} 
+
+.img{
+width: 1.5%;
+} */
+
+  /* Menu */
+#menu{
+    /* margin-top: px; */
+    /* padding: 10px; */
+    width: 90%;
+    background: #f2d0e0;
+    max-width: 300px;
+    max-height: 300px;
+    position: absolute;
+    top: 0;
+    left: 0; 
+}
+  

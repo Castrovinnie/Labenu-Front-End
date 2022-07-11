@@ -1,0 +1,18 @@
+Passo a Passo criar projeto React
+
+//comando para criar projeto
+nox create-react-app meu-app
+npm install styled-components
+npm install axios
+
+//rodar o projeto ou app
+npm run start
+
+//Buildar "finalizar"
+npm run build
+surge ./build   //da para escrever o dominio proprio por exemplo meu-site.surge.sh
+
+
+
+
+
